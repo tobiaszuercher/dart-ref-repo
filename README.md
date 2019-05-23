@@ -16,7 +16,7 @@ Results in this exception (screenshot taken from flutter app on ios simulator):
 
 The call to createInstance() is in [json_converters.dart](https://github.com/ServiceStack/servicestack-dart/blob/master/lib/json_converters.dart#L257) where typeInfo is null.
 
-We wrap retrieving lists in a PagedResult which leads to this problem. Using `ts-ref` works perfectly fine with these dtos.
+We wrap retrieving lists in a PagedResult which leads to this problem. Using `ts-ref` works perfectly fine in our other aurelia SPAs with these dtos.
 
 Backend:
 ```csharp
