@@ -1,0 +1,11 @@
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/bin/Debug/netcoreapp2.2/DartRefSandbox.deps.json
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/bin/Debug/netcoreapp2.2/DartRefSandbox.runtimeconfig.json
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/bin/Debug/netcoreapp2.2/DartRefSandbox.runtimeconfig.dev.json
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/bin/Debug/netcoreapp2.2/DartRefSandbox.dll
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/bin/Debug/netcoreapp2.2/DartRefSandbox.pdb
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.csprojAssemblyReference.cache
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.csproj.CoreCompileInputs.cache
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.AssemblyInfoInputs.cache
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.AssemblyInfo.cs
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.dll
+/Users/ozu/RiderProjects/DartRefSandbox/DartRefSandbox/obj/Debug/netcoreapp2.2/DartRefSandbox.pdb
