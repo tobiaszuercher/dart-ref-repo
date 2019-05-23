@@ -7,7 +7,8 @@ generated service reference: [foos.dtos.dart](foos.dtos.dart)
 Using `JsonServiceClient` to get data from backend:
 
 ```dart
-  var response = await _client.get(new GetFoos());
+  var client = new JsonServiceClient("http://localhost:5000");
+  var response = await client.get(new GetFoos());
 ```
 
 Results in this exception (screenshot taken from flutter app on ios simulator):
