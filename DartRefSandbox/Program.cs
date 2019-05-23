@@ -68,7 +68,7 @@ namespace DartRefSandbox
         }
     }
     
-       [Route("/foos", "GET", Summary = "Returns a list of jobs.")]
+    [Route("/foos", "GET")]
     public class GetFoos : PagedAndOrderedRequest, IReturn<PagedResult<FooListDto>>
     {
     }
