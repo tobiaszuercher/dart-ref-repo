@@ -10,7 +10,7 @@ Using `JsonServiceClient` to get data from backend:
   var response = await _client.get(new GetFoos());
 ```
 
-Results in this exception:
+Results in this exception (screenshot taken from flutter app on ios simulator):
 ![exception](exception.png)
 
 The call to createInstance() is in [json_converters.dart](https://github.com/ServiceStack/servicestack-dart/blob/master/lib/json_converters.dart#L257) where typeInfo is null.
